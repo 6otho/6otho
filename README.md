@@ -1,20 +1,6 @@
-### 👋 欢迎来到 [6otho](https://github.com/6otho) 的实验室
+### 👋 Hi there, I am [6otho](https://github.com/6otho)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=22DD88&center=true&width=360&lines=Crossing+the+frontiers+of+tech...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0969DA&center=true&width=345&lines=Welcome+to+my+homepage.)
 
-<!-- Contribution Snake: 支持主题 -->
-![snake animation](https://github.com/6otho/6otho/blob/output/github-contribution-grid-snake.svg)  
-![snake animation dark](https://github.com/6otho/6otho/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-<!-- 兴趣标签 -->
-#### 🔭 I’m currently working on  
-- Project A  
-- Open‑source contribution  
-
-#### 🌱 I’m learning  
-- Rust & WebAssembly  
-- Machine Learning  
-
-#### 💬 Ask me about  
-- API Design  
-- DevOps & CI/CD  
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=6otho&width=1060&data=followers,repositories,stars,commits&theme=default)
+![snake animation](https://github.com/6otho/6otho/blob/output/github-contribution-grid-snake.svg)
